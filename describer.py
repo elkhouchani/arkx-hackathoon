@@ -1,10 +1,10 @@
 import cohere
 import os
 import json
-from dotenv import load_dotenv
 
-load_dotenv()
-COHERE_API_KEY = os.getenv("COHERE_API_KEY")
+# from dotenv import load_dotenv
+# load_dotenv()
+COHERE_API_KEY = "IQqvMnz3IdjblhKBs4PGz4jYEnkqr3FLz7LQKL8f"
 co = cohere.Client(COHERE_API_KEY)
 
 with open("data/raw/products.json", "r") as f:
@@ -12,7 +12,6 @@ with open("data/raw/products.json", "r") as f:
 
 
 def generate_description(product: dict) -> str:
-    
     prompt = f"""You are a structured content generator. Generate a detailed product description page in Markdown using the JSON input provided. Follow the exact content structure and formatting shown below.
 
 Always assume the brand is "Unknown" unless provided. Return only the Markdown string. Do not include JSON or extra explanation.
@@ -67,14 +66,16 @@ Output:
 
     return response.generations[0].text.strip()
 
-# Generate and save Markdown for each product
-output_dir = "data/generated_descriptions"
-os.makedirs(output_dir, exist_ok=True)
 
-for product in products:
-    markdown_description = generate_description(product)
-    product_id = product.get("id", "unknown")
-    file_path = os.path.join(output_dir, f"product_{product_id}.md")
-    with open(file_path, "w", encoding="utf-8") as f:
-        f.write(markdown_description)
-    print(f"✅ Description generated for product {product_id}")
+def generate_all_descriptions():
+    output_dir = "data/generated_descriptions"
+    os.makedirs(output_dir, exist_ok=True)
+
+    for product in products:
+        markdown_description = generate_description(product)
+        product_id = product.get("id", "unknown")
+        file_path = os.path.join(output_dir, f"product_{product_id}.md")
+        with open(file_path, "w", encoding="utf-8") as f:
+            f.write(markdown_description)
+        print(f"✅ Description generated for product {product_id}")
+

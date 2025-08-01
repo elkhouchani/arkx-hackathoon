@@ -58,6 +58,3 @@ def ingest_products(num_products=10):
 
     return filename, products # Return saved filename and product list
 
- 
-
-ingest_products()
