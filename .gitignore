@@ -1,4 +1,4 @@
 .env
-
+__pycache__
 ingest_products.py
 prompt.txt
