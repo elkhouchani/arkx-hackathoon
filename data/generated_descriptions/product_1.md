@@ -7,28 +7,28 @@
 **Brand:** Unknown
 
 ## Overview
-The Essence Mascara Lash Princess is a popular mascara that delivers dramatic results. With its long-lasting and cruelty-free formula, this mascara volumizes, lengthens, and transforms your lashes.
+The Essence Mascara Lash Princess is a popular mascara that delivers dramatic results. With its long-lasting, cruelty-free formula, this mascara volumizes, lengthens, and transforms your lashes.
 
 ## Key Features
-- Volumizing and lengthening formula
-- Long-lasting and smudge-proof
+- Volumizing and lengthening effects
+- Long-lasting formula
 - Cruelty-free
 
 ## Why You'll Love It
-- Creates dramatic and bold lashes
-- Smudge-proof and long-lasting wear
-- Affordable price for everyday glamour
+- Creates dramatic, eye-catching lashes
+- Provides volume and length without clumping
+- Smudge-proof and flake-proof for all-day wear
 
 ## How to Use
-- Start with clean and dry lashes. 
-- Apply the mascara in a zig-zag motion from the root to the tip of your lashes. 
-- For added volume and length, apply a second coat before the first coat dries. 
+- Start with clean, dry lashes.
+- Apply the mascara from the root to the tip of your lashes, wiggling the brush slightly as you go.
+- For added drama, focus on the outer corners and apply a second coat.
 
 ## Customer Reviews
-> “This mascara is amazing! It gives me such dramatic lashes without clumping or flaking. Love the affordable price too!”
-> “Really happy with the results. My lashes look longer and more voluminous, definitely recommend!”
+> "This mascara is incredible! It gives me such full and long lashes without clumping. Definitely my new go-to!"
+> "Love the drama it adds to my eyes. No more false lashes needed!"
 
 ## Perfect For
-- Everyday lash enhancement
-- Creating bold and glamorous looks
+- Creating dramatic eye looks
+- Achieving fuller, longer-looking lashes
 - Those seeking a cruelty-free mascara option

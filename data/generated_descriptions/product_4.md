@@ -1,6 +1,6 @@
-![Red Lipstick](https://cdn.dummyjson.com/product-images/beauty/red-lipstick/1.webp)
-
 # Red Lipstick
+
+![Red Lipstick](https://cdn.dummyjson.com/product-images/beauty/red-lipstick/1.webp)
 
 **Category:** beauty  
 **Price:** $12.99  
@@ -20,15 +20,15 @@ The Red Lipstick is a classic and bold choice for adding a pop of color to your 
 - Stays in place without drying out your lips  
 
 ## How to Use  
-- Apply directly to clean lips for a quick and easy application.  
-- For sharper edges and added precision, use a lip liner beforehand to define your lip shape.  
-- Reapply as needed throughout the day to maintain the bold color.  
+- Apply directly to clean lips for a quick boost of color.  
+- For sharper edges and added definition, use a lip liner beforehand.  
+- Reapply as needed throughout the day to maintain the vibrant look.  
 
 ## Customer Reviews  
-> “Gorgeous color and super long-lasting! It really makes a statement and stays put all day.” — @Jane  
-> “The formula glides on smoothly and feels luxurious. Definitely a new favorite!” — @Marie
+> “This lipstick is stunning! The color is gorgeous and it lasts forever. Definitely my new go-to for a night out!”  
+> “The formula is so creamy and comfortable. It glides on smoothly and feels luxurious. I'm obsessed!”
 
 ## Perfect For  
-- Special occasions when you want to make a memorable impression.  
-- An everyday confidence boost to elevate your mood and look.  
-- Anyone who loves a bold lip and isn't afraid to make a statement.
+- Creating a statement look for special occasions  
+- Boosting your confidence on a daily basis  
+- Anyone who wants to embrace their bold and beautiful side

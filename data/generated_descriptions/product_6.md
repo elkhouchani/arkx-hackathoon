@@ -7,7 +7,7 @@
 **Brand:** Unknown
 
 ## Overview  
-CK One by Calvin Klein is a timeless unisex fragrance known for its fresh and clean scent. It's a versatile perfume suitable for everyday wear, with a light and refreshing aroma that appeals to both men and women.
+Calvin Klein CK One is a classic unisex fragrance known for its fresh and clean scent. It's a versatile perfume suitable for everyday wear, with a light and refreshing aroma that's perfect for any occasion.
 
 ## Key Features  
 - Fresh, clean scent  
@@ -16,19 +16,18 @@ CK One by Calvin Klein is a timeless unisex fragrance known for its fresh and cl
 
 ## Why You'll Love It  
 - Classic and iconic fragrance  
-- Light and refreshing, never overpowering  
-- Can be worn by anyone, making it a great choice for a signature scent  
+- Light and refreshing, perfect for all occasions  
+- Versatile and suitable for anyone  
 
 ## How to Use  
 - Spray onto pulse points such as wrists, neck, and chest  
 - Reapply throughout the day as needed  
-- Layer with other products from the CK One range for a longer-lasting effect  
 
 ## Customer Reviews  
-> “I've been wearing this scent for years and always get complimented on it. It's fresh and clean without being too strong.”  
-> “My go-to fragrance for work and casual outings. It's versatile and I always feel confident wearing it.”
+> “My go-to scent! It's fresh and clean without being too overpowering.”  
+> “Love that it's unisex. My partner and I can share a bottle.”
 
 ## Perfect For  
 - Everyday fragrance  
-- Those who want a subtle, clean scent  
-- Anyone seeking a classic, iconic perfume
+- Those who prefer light, fresh scents  
+- Anyone seeking a versatile and iconic perfume
