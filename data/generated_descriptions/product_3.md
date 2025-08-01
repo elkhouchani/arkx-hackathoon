@@ -7,11 +7,11 @@
 **Brand:** Unknown
 
 ## Overview
-The Powder Canister contains a finely milled setting powder designed to set makeup and control shine. Its lightweight and translucent formula leaves a smooth, matte finish.
+The Powder Canister contains a finely milled setting powder that is perfect for setting makeup and controlling shine. With its lightweight and translucent formula, it gives your skin a smooth and matte finish.
 
 ## Key Features
-- Finely milled
 - Lightweight and translucent
+- Finely milled
 - Provides a matte finish
 
 ## Why You'll Love It
@@ -20,15 +20,16 @@ The Powder Canister contains a finely milled setting powder designed to set make
 - Leaves a smooth and flawless finish
 
 ## How to Use
-- Apply a small amount of powder to a fluffy brush
-- Tap off any excess
-- Gently sweep the brush across your face, focusing on areas that tend to shine
+- Apply a small amount of powder to a fluffy brush.
+- Tap off any excess.
+- Sweep the brush gently across your face, focusing on areas that tend to shine.
+- For touch-ups, blot shiny areas gently with a powder puff or sponge.
 
 ## Customer Reviews
-> "This setting powder is incredible! It keeps my makeup in place all day without feeling heavy or cakey."
-> "I have oily skin, and this powder helps control shine. A little goes a long way, too."
+> "This powder is amazing! It keeps my makeup in place all day and helps control shine. My skin looks smooth and flawless."
+> "A little goes a long way with this powder. It's so lightweight and doesn't cake up my makeup."
 
 ## Perfect For
-- Long-lasting makeup looks
+- Long-lasting makeup wear
 - Controlling shine
-- Achieving a smooth and matte finish
+- Achieving a matte and flawless finish
