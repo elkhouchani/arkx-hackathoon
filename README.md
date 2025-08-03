@@ -56,5 +56,17 @@ Set your Cohere API key:
 export COHERE_API_KEY="your_api_key_here"
 ```
 
+## Run project
+Serve via Local HTTP Server (Use Python’s built-in HTTP server to simulate a web environment)
+In the root directory of the project, run:
+```bash
+python -m http.server 8000
+```
+Then open your browser and go to:
+
+```bash
+http://localhost:8000/product_page.html
+```
+
 ## License
 MIT
